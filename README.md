@@ -117,7 +117,7 @@ Built using **Mapbox**, **Planet API**, and **Vite**.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alinrenit)
 - 🐙 [GitHub](https://github.com/alinrenit)
-- ✉️ alinrenit@gmail.com
+- ✉️ alinrenit.dev@gmail.com
 
 ---
 
